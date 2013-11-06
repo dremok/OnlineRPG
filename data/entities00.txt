@@ -1,0 +1,2 @@
+# type, x, y, width, height, #animation_states
+monkey 450 400 56 64 3
