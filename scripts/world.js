@@ -26,6 +26,7 @@ var world = (function() {
 	var currentMap = new Array();
 	var collisionMap = new Array();
 	var currentEntities = new Array();
+	var entityIDs = {};
 
 	var loadMap = function() {
 		$.get('maps/map' + x + y + '.txt', function(data) {
@@ -48,14 +49,29 @@ var world = (function() {
 		});
 	}
 
+	var createUniqueId = function() {
+		var id = 0;
+		while (id in entityIDs) {
+			id = Math.floor((Math.random() * 10000));
+		}
+		entityIDs[id]= true;
+		return id;
+	}
+
 	var loadEntities = function() {
 		$.get('data/entities' + x + y + '.txt', function(data) {
 			var lineArray = data.split('\n');
 			for (var i = 0; i < lineArray.length; i++) {
-				var entity = lineArray[i].split(' ');
-				currentEntities[i] = new entityHandler.Entity(entity[0], parseInt(entity[1]), parseInt(entity[2]), 
-														parseInt(entity[3]), parseInt(entity[4]), parseInt(entity[5]));
+				if (lineArray[i].charAt(0) != '#') {
+					var entity = lineArray[i].split(' ');
+					var id = createUniqueId();
+					console.log(id);
+					currentEntities.push(new entityHandler.Entity(id, entity[0], parseInt(entity[1]), parseInt(entity[2]), 
+										parseInt(entity[3]), parseInt(entity[4]), parseInt(entity[5])));
+				}
 			}
+			console.log("EntityIDs: ");
+			console.log(entityIDs);
 			console.log("Entities: ");
 			console.log(currentEntities);
 		});

@@ -1,8 +1,13 @@
 // Constants
-var DOWN = 83;
-var UP = 87;
-var LEFT = 65;
-var RIGHT = 68;
+var DOWN_KEY = 83;
+var UP_KEY = 87;
+var LEFT_KEY = 65;
+var RIGHT_KEY = 68;
+
+var DOWN_STATE = 0;
+var UP_STATE = 1;
+var LEFT_STATE = 2;
+var RIGHT_STATE = 3;
 
 // Global functions
 function rectanglesOverlapping(rectA, rectB) {
