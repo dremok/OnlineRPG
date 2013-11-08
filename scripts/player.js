@@ -24,7 +24,7 @@ var player = (function() {
 	var walkState = 0;
 	var walkTimer = Date.now();
 
-	canWalk = function(keysDown, collisionMap, entities, movement) {
+	var canWalk = function(keysDown, collisionMap, entities, movement) {
 		var nextX = Math.round(x);
 		var nextY = Math.round(y);
 		if (DOWN_KEY in keysDown) {
@@ -51,16 +51,25 @@ var player = (function() {
 		}
 		return true;
 	}
-	getPositionString = function() {
+	var getPositionString = function() {
 		return "PlayerX = " + x + ", PlayerY = " + y;
 	}
-	getRectangle = function() {
+	var getRectangle = function() {
 		return {x:x, y:y, width:width, height:height};
 	}
-	resetWalkState = function() {
+	var resetWalkState = function() {
 		walkState = 0;
 	}
-	update = function(mod, keysDown) {
+	var checkForMapChange = function() {
+		if (x + width > world.getMapWidth() - 1) {
+			x = 0;
+			world.changeMap('EAST');
+		} else if (y + height > world.getMapHeight() - 1) {
+			y = 0;
+			world.changeMap('SOUTH');
+		}
+	}
+	var update = function(mod, keysDown) {
 		if (Object.keys(keysDown).length == 1) {
 			// Change walk state
 			if (Date.now() - walkTimer > (1000 / animationSpeed) && (65 in keysDown || 87 in keysDown || 68 in keysDown || 83 in keysDown)) {
@@ -90,9 +99,10 @@ var player = (function() {
 					x += speed * mod;
 				}
 			}
+			checkForMapChange();
 		}
 	}
-	render = function(ctx) {
+	var render = function(ctx) {
 	    ctx.drawImage(
 	        playerTiles.image,
 	        walkState * playerTiles.tileWidth,

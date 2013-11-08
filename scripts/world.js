@@ -23,6 +23,8 @@ var world = (function() {
 	var NBR_TILES_IN_Y = 12;
 	var x = 0;
 	var y = 0;
+	var mapWidth = 1280;
+	var mapHeight = 704;
 	var currentMap = new Array();
 	var collisionMap = new Array();
 	var currentEntities = new Array();
@@ -47,6 +49,16 @@ var world = (function() {
 			console.log("Collision map: ");
 			console.log(collisionMap);
 		});
+		loadEntities();
+	}
+
+	var changeMap = function(direction) {
+		if (direction == 'EAST') {
+			x++;
+		} else if (direction == 'SOUTH') {
+			y++;
+		}
+		loadMap();
 	}
 
 	var createUniqueId = function() {
@@ -59,6 +71,7 @@ var world = (function() {
 	}
 
 	var loadEntities = function() {
+		currentEntities = new Array();
 		$.get('data/entities' + x + y + '.txt', function(data) {
 			var lineArray = data.split('\n');
 			for (var i = 0; i < lineArray.length; i++) {
@@ -121,12 +134,22 @@ var world = (function() {
 		return currentEntities;
 	}
 
+	var getMapWidth = function() {
+		return mapWidth;
+	}
+
+	var getMapHeight = function() {
+		return mapHeight;
+	}
+
 	return {
 		loadMap: loadMap,
-		loadEntities: loadEntities,
+		changeMap: changeMap,
 		updateEntities: updateEntities,
 		render: render,
 		getCollisionMap: getCollisionMap,
-		getCurrentEntities: getCurrentEntities
+		getCurrentEntities: getCurrentEntities,
+		getMapWidth: getMapWidth,
+		getMapHeight: getMapHeight
 	}
 })();

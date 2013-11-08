@@ -4,7 +4,7 @@ var game = (function() {
 	var ctx = canvas.getContext('2d');
 
 	canvas.width = 1280;	// 20 tiles * 64px
-	canvas.height = 768;	// 12 tiles * 64px
+	canvas.height = 768;	// 11 tiles * 64px + console
 
 	ctx.font = "bold 16px Arial";
 
@@ -54,7 +54,6 @@ var game = (function() {
 		// ********************
 		init: function() {
 			world.loadMap();
-			world.loadEntities();
 			// Run the game...
 			setInterval(run, 10);
 		}
