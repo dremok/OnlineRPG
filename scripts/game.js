@@ -44,6 +44,9 @@ var game = (function() {
 	// GAME LOOP
 	// ********************
 	var run = function() {
+		if (80 in keysDown) {
+			setTimeout(function(){ alert('execution stopped')}, 10);
+		}
 		update((Date.now() - time) / 1000);
 		render();
 		time = Date.now();

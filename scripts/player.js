@@ -27,14 +27,15 @@ var player = (function() {
 	var canWalk = function(keysDown, collisionMap, entities, movement) {
 		var nextX = Math.round(x);
 		var nextY = Math.round(y);
+		var padding = movement + 1;
 		if (DOWN_KEY in keysDown) {
-			nextY += movement;
+			nextY += padding;
 		} else if (UP_KEY in keysDown) {
-			nextY -= movement;
+			nextY -= padding;
 		} else if (LEFT_KEY in keysDown) {
-			nextX -= movement;
+			nextX -= padding;
 		} else if (RIGHT_KEY in keysDown) {
-			nextX += movement;
+			nextX += padding;
 		}
 		// For each collision object and each entity,
 		// check the player's next position is not overlapping.

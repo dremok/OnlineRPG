@@ -1,0 +1,1354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setTi",
+				"setTimeout()	Frame"
+			],
+			[
+				"ke",
+				"keysDown"
+			],
+			[
+				"getR",
+				"getRectangle()	entity.js"
+			],
+			[
+				"enti",
+				"entities"
+			],
+			[
+				"getM",
+				"getMapWidth"
+			],
+			[
+				"load",
+				"loadMap"
+			],
+			[
+				"char",
+				"charAt()	String"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"colli",
+				"collisionRect"
+			],
+			[
+				"LEFT",
+				"LEFT_STATE"
+			],
+			[
+				"RI",
+				"RIGHT_STATE"
+			],
+			[
+				"LEF",
+				"LEFT_STATE"
+			],
+			[
+				"UP",
+				"UP_STATE"
+			],
+			[
+				"DO",
+				"DOWN_STATE"
+			],
+			[
+				"test",
+				"test_data"
+			],
+			[
+				"type",
+				"type_tag"
+			],
+			[
+				"type_",
+				"type_map"
+			],
+			[
+				"so",
+				"sorted_avg"
+			],
+			[
+				"train",
+				"train_y"
+			],
+			[
+				"ty",
+				"type_tag"
+			],
+			[
+				"exa",
+				"examples_read"
+			],
+			[
+				"iss",
+				"issue_id"
+			],
+			[
+				"tra",
+				"train_data"
+			],
+			[
+				"typ",
+				"type_map"
+			],
+			[
+				"tp",
+				"type_map"
+			],
+			[
+				"train_",
+				"train_x"
+			],
+			[
+				"feat",
+				"feature_names"
+			],
+			[
+				"re",
+				"recv"
+			],
+			[
+				"image",
+				"image_data"
+			],
+			[
+				"clie",
+				"client_conn"
+			],
+			[
+				"get",
+				"gethostname"
+			],
+			[
+				"cli",
+				"clientSocket"
+			],
+			[
+				"data",
+				"data_set"
+			],
+			[
+				"tes",
+				"test_x"
+			],
+			[
+				"trin",
+				"train_y"
+			],
+			[
+				"set",
+				"setName"
+			],
+			[
+				"ima",
+				"_images"
+			],
+			[
+				"Pl",
+				"Player"
+			],
+			[
+				"ent",
+				"entities"
+			],
+			[
+				"lo",
+				"loadContent"
+			],
+			[
+				"Gam",
+				"GameHandler"
+			],
+			[
+				"Ga",
+				"GameHandler"
+			],
+			[
+				"key",
+				"keyDown"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"k",
+				"_keyDown"
+			],
+			[
+				"Game",
+				"GameState"
+			],
+			[
+				"window",
+				"windowSurface"
+			],
+			[
+				"wind",
+				"windowSurface"
+			],
+			[
+				"win",
+				"windowSurface"
+			],
+			[
+				"ma",
+				"Matrix"
+			],
+			[
+				"list",
+				"list_of_values"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"sort",
+				"sorted_hash"
+			],
+			[
+				"sor",
+				"sorted_hash"
+			],
+			[
+				"hash",
+				"hashFreqs"
+			],
+			[
+				"has",
+				"hashFreqs"
+			],
+			[
+				"ter",
+				"term"
+			],
+			[
+				"term",
+				"termFreqs"
+			],
+			[
+				"twe",
+				"tweet_file"
+			],
+			[
+				"calc",
+				"calcSentimentForNewTerms"
+			],
+			[
+				"sen",
+				"sentiment"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"sent",
+				"sentiments"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"enc",
+				"encoded_string"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"game",
+				"gameCanvas"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"canv",
+				"canvas	Default"
+			],
+			[
+				"g",
+				"getContext()	Canvas"
+			],
+			[
+				"canva",
+				"canvasElement"
+			],
+			[
+				"CAN",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"alert",
+				"alert()	Window"
+			],
+			[
+				"al",
+				"alert()	Window"
+			],
+			[
+				"keys",
+				"keysDown"
+			],
+			[
+				"MO",
+				"MOVING_LEFT"
+			],
+			[
+				"still",
+				"stillImage"
+			],
+			[
+				"stil",
+				"stillImage"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"B",
+				"Berliner"
+			],
+			[
+				"A",
+				"Almond"
+			],
+			[
+				"R",
+				"ring"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"in",
+				"ingredient"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"C",
+				"CREATE"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"input",
+				"inputBox"
+			],
+			[
+				"use",
+				"userInput"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"inpu",
+				"inputBox"
+			],
+			[
+				"strlo",
+				"strtolower"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ip",
+				"ipAddress"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"log",
+				"loggedIn"
+			],
+			[
+				"login",
+				"login123string"
+			],
+			[
+				"h1",
+				"H1	Tag"
+			],
+			[
+				"blog",
+				"blogspot"
+			],
+			[
+				"p",
+				"pDate"
+			],
+			[
+				"cou",
+				"courseCode"
+			],
+			[
+				"Stu",
+				"StudentAvg"
+			],
+			[
+				"te",
+				"text_to_search"
+			],
+			[
+				"Dmoz",
+				"DmozItem"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"fea",
+				"features"
+			],
+			[
+				"mo",
+				"max_common_feature"
+			],
+			[
+				"max",
+				"max_feat"
+			],
+			[
+				"fe",
+				"features"
+			],
+			[
+				"text",
+				"text2tokens"
+			],
+			[
+				"tex",
+				"text2tokens"
+			],
+			[
+				"cla",
+				"clausePunct_re"
+			],
+			[
+				"cl",
+				"clausePunct_re"
+			],
+			[
+				"feature",
+				"features"
+			],
+			[
+				"write",
+				"write_all_training_data_for_label"
+			],
+			[
+				"wri",
+				"write_training_data"
+			],
+			[
+				"wr",
+				"write_data_header"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"to",
+				"total_nbr_words"
+			],
+			[
+				"tok",
+				"tokenize"
+			],
+			[
+				"read",
+				"read_text"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 677,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/game.js",
+			"settings":
+			{
+				"buffer_size": 1343,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/entity.js",
+			"settings":
+			{
+				"buffer_size": 3402,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/world.js",
+			"settings":
+			{
+				"buffer_size": 3586,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/player.js",
+			"settings":
+			{
+				"buffer_size": 3388,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/globals.js",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data/entities00.txt",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "maps/map10.txt",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "maps/map10col.txt",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"Snippet: ",
+				"Snippet: \\t -> f t"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Max/Documents/JSGame/OnlineRPG/maps/map10.txt",
+		"/C/Users/Max/Documents/JSGame/OnlineRPG/maps/map10col.txt",
+		"/C/Users/Max/Documents/JSGame/OnlineRPG/maps/map00.txt",
+		"/C/Users/Max/Documents/JSGame/OnlineRPG/data/entities00.txt",
+		"/C/Users/Max/Documents/Skolan/JobbSearch/exjobb_values.txt",
+		"/C/Users/Max/Documents/Skolan/Kaggle/311/predict.py",
+		"/C/Users/Max/Documents/Skolan/JobbSearch/exjobb_values",
+		"/C/Users/Max/Documents/Skolan/Kaggle/311/test.csv",
+		"/C/Users/Max/Documents/Skolan/Kaggle/311/sampleSubmission.csv",
+		"/C/Users/Max/Documents/Skolan/Kaggle/311/train.csv",
+		"/C/Users/Max/Downloads/train.csv",
+		"/C/Users/Max/Downloads/sampleSubmission.csv",
+		"/C/Users/Max/Documents/Skolan/PyNetworkProject/ServerMain.py",
+		"/C/Users/Max/Documents/Skolan/PyNetworkProject/cam_capture.py",
+		"/C/Users/Max/Documents/Skolan/PyNetworkProject/ClientMain.py",
+		"/C/Users/Max/Documents/Gamejam/GameJam/src/GameState.py",
+		"/C/Users/Max/Documents/Gamejam/GameJam/src/Game.py",
+		"/C/Users/Max/Documents/Gamejam/GameJam/src/GameState.pyc",
+		"/C/Users/Max/Documents/Skolan/JobbSearch/fizzbuzz.hs",
+		"/C/Users/Max/Documents/Skolan/HackerRank/ML/house.txt",
+		"/C/Users/Max/Documents/Skolan/HackerRank/ML/house.py",
+		"/C/Users/Max/Documents/Kivy Projects/First App/main.py",
+		"/C/Users/Max/Documents/StrollerCoaster/strollercoaster/.gitignore",
+		"/C/Users/Max/Documents/Gamejam/Entity.py",
+		"/C/Users/Max/Documents/Gamejam/Test.py",
+		"/C/Users/Max/Documents/Gamejam/LevelPainter.py",
+		"/C/Users/Max/Documents/Gamejam/GameHandler.py",
+		"/C/Users/Max/Documents/Gamejam/Game.py",
+		"/C/Users/Max/Documents/Gamejam/Player.py",
+		"/C/Users/Max/Documents/Gamejam/GameState.py",
+		"/C/Users/Max/Documents/JSGame/scripts/player.js",
+		"/C/Users/Max/Documents/JSGame/scripts/main.js",
+		"/C/Users/Max/Documents/JSGame/index.html",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment3/multiply.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment3/MapReduce.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment3/solutions/multiply.json",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment3/data/matrix.json",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment3/unique_trims.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment3/assymetric_friendships.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment3/friend_count.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment2/similarity_matrix.txt",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment2/multiply.txt",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment2/keyword_search.txt",
+		"/C/Users/Max/Documents/Nao/demo.py",
+		"/C/Users/Max/Documents/pictionary/Pictionary/public_html/asubtlegreen.css",
+		"/C/Users/Max/Documents/pictionary/Pictionary/public_html/index.html",
+		"/C/Users/Max/Documents/pictionary/Pictionary/public_html/test.html",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment1/tweet_sentiment.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment1/term_sentiment.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment1/frequency.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment1/top_ten.py",
+		"/C/Users/Max/Documents/filmlista",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment1/twitterstream.py",
+		"/C/Users/Max/Documents/Skolan/Big Data/datasci_course_materials/assignment1/test.py",
+		"/C/Users/Max/Documents/LISP/guess.lisp",
+		"/C/Users/Max/Documents/Skolan/JobbSearch/löner.txt",
+		"/C/Users/Max/Documents/JSGame/css/style.css",
+		"/C/Users/Max/Documents/pictionary/README.md",
+		"/C/Users/Max/Documents/pictionary/.gitignore",
+		"/C/Users/Max/Documents/Skolan/Nätverksprogrammering/scribble-source/Scribble.java",
+		"/C/Users/Max/Documents/JSGame/site/index.html",
+		"/C/Users/Max/Documents/JSGame/scripts/lib/Enums.js",
+		"/C/Users/Max/Documents/JSGame/scripts/lib/Player.js",
+		"/C/Users/Max/Documents/JSGame/scripts/lib/Game.js",
+		"/C/Users/Max/Documents/JSGame/README.md",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/Database.java",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/sql/fillTables.sql",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/.gitignore",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/sql/creates.sql",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/Krusty/src/database/DB.java",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/creates.sql",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/fillTables.sql",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/Krusty/.project",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/Krusty/.classpath",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/README.md",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/Layout.hs",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/EDA216/Arithmetic.hs",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/projekt/Arithmetic.hs",
+		"/C/Users/Max/Documents/Gomoku/test2.c",
+		"/C/Users/Max/Documents/Gomoku/test.c",
+		"/C/Users/Max/Documents/Skolan/Funktionsprogrammering/funcs.hs",
+		"/C/Users/Max/Documents/Sentiment/token.py",
+		"/C/Users/Max/Documents/Sentiment/filehandler.py",
+		"/C/Users/Max/Documents/trams/parser.py",
+		"/C/Users/Max/Documents/trams/tryMe.py",
+		"/C/Users/Max/Documents/trams/game.py",
+		"/C/Users/Max/Documents/Sentiment/filehandler.pyc",
+		"/C/Users/Max/Documents/new_game/viewhelpers.js",
+		"/C/Users/Max/Documents/new_game/gametest.js",
+		"/C/Users/Max/Documents/new_game/ajax.js",
+		"/C/Users/Max/Documents/Sentiment/spider/spider/items.py",
+		"/C/Users/Max/Documents/Sentiment/spider/spider/spiders/blogspot_spider.py",
+		"/C/Users/Max/Documents/Sentiment/spider/spider/spiders/horse_spider",
+		"/C/Users/Max/Documents/Online Game/Test/test.py",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Max/Documents/Sentiment/main.py",
+		"/C/Users/Max/Documents/Sentiment/structure.py",
+		"/C/Users/Max/Documents/Sentiment/featurehandler.py",
+		"/C/Users/Max/Documents/Sentiment/checkdata.py",
+		"/C/Users/Max/Documents/Sentiment/featurehandler.pyc",
+		"/C/Users/Max/Documents/Sentiment/structure.pyc",
+		"/C/Users/Max/Documents/Sentiment/token.pyc",
+		"/C/Users/Max/Documents/Skolan/Labbledare ProgrFördjupning/losn_lab1/src/set/ArraySet.java",
+		"/C/Users/Max/Documents/Skolan/Labbledare ProgrFördjupning/losn_lab1/src/set/MaxSet.java",
+		"/C/Users/Max/Documents/Skolan/Labbledare ProgrFördjupning/losn_lab1/src/set/RemoveDuplicates.java",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/lab2.sql",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/lab1.sql",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/blimedlem.asp",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/index.asp",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/har_finns_vi.asp",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/presentation_anna.asp",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/presentation_osten.asp",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/forsta_sidan.asp",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/rus_ie.css",
+		"/C/Users/Max/Documents/RUS Hemsida/www.rus-riks.se/rus.css",
+		"/C/my.cnf",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/lab1.txt",
+		"/C/Users/Max/Documents/Skolan/Databasteknik/.my.cnf",
+		"/C/Users/Max/Documents/Sentiment/spider/test.txt",
+		"/C/Users/Max/Documents/Sentiment/spider/items.json",
+		"/C/Users/Max/Documents/Sentiment/spider/Books",
+		"/C/Users/Max/Documents/Sentiment/spider/spider/dmoz_spider.py",
+		"/C/Users/Max/TheTurn/Sentiment/main.py",
+		"/C/Users/Max/TheTurn/Sentiment/featurehandler.py",
+		"/C/Users/Max/TheTurn/Sentiment/filehandler.py",
+		"/C/Users/Max/TheTurn/Sentiment/structure.py",
+		"/C/Users/Max/TheTurn/Sentiment/token.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Max\\Documents\\JSGame\\OnlineRPG",
+			"C:\\Users\\Max\\Documents\\JSGame\\OnlineRPG\\scripts",
+			"C:\\Users\\Max\\Documents\\JSGame\\OnlineRPG",
+			"C:\\Users\\Max\\Documents\\RUS Hemsida\\www.rus-riks.se",
+			"C:\\Users\\Max\\Documents\\Skolan\\Funktionsprogrammering\\Assignment4",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app\\assets",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app\\assets\\stylesheets",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app\\controllers",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app\\assets\\stylesheets",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app\\views",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app\\assets\\stylesheets",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend\\app\\assets",
+			"C:\\Sites\\rails_projects\\Zaijt-Backend"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"console.log",
+			"loadEntities",
+			"loadM",
+			"console",
+			"non",
+			"feet",
+			"RIGHT",
+			"UP",
+			"LEFT",
+			"DOWN",
+			"id",
+			"\\\\n",
+			"init",
+			"capture",
+			"addr",
+			"readInput",
+			"data_x",
+			"data_array",
+			"readTrainData",
+			"readInput",
+			"lp",
+			"loadImage",
+			"&quot;",
+			"&gt;",
+			"&lt;",
+			",",
+			"\\)",
+			"\\(",
+			"v2",
+			"v1",
+			"scroll",
+			"figu",
+			"resultat",
+			"ladda",
+			"Xpos",
+			"nsS",
+			"speed",
+			"si",
+			"chip",
+			"document.write",
+			"Image",
+			"Image0",
+			"jpg",
+			"png",
+			"jpg",
+			"astropic",
+			"pic1",
+			"background",
+			"\\s\\s\\s+",
+			"\\s\\s+",
+			"\\t\\t",
+			"ctrl+shift+left",
+			"calcAllSentiments",
+			"print",
+			"calcSentiment",
+			"Krusty",
+			"values\\(('.*?').*",
+			"1 l",
+			"INSERT INTO",
+			"Statement",
+			"stmt",
+			"(Ingredients values\\('.*?','.*?')(\\);)",
+			"(.*?AB) (.*)",
+			" ˚ ",
+			"ﬂ",
+			"RecipeItems values\\('.*?',('.*?').*",
+			"RecipeItems values('Nut ring','Flour','450 g');",
+			"RecipeItems values\\('.*?',('.*?').*",
+			"([A-Z].*?)\\s([A-Z].*?)\\s(\\d.*)\\n",
+			"([A-Z].*?)([A-Z].*?)(\\d.*)\\n",
+			"([A-Z].*?)([A-Z].*?)(\\d*)\\n",
+			"([A-Z].*?)[A-Z|\\d].*",
+			"([A-Z].* (g|dl))\\n",
+			"([A-Z].* g)\\n",
+			"([A-Z].* g\\n)",
+			"nrhs",
+			"nlhs",
+			"ip_address",
+			"php",
+			"left",
+			"move",
+			"s mer",
+			"main_bild",
+			"main_",
+			"id=\"kolumn1\"",
+			"2012",
+			"lklinga",
+			"frank",
+			"frank dis",
+			"frank",
+			"tok_",
+			"n_tokens",
+			"\\s\\d+\\s",
+			"\\s\\d+",
+			"remove_punctuation",
+			"remove_meaningless",
+			"\\s(\\d)+\\s",
+			"max_common_feature",
+			"features",
+			"load_all_tokens",
+			"bad",
+			"good",
+			"handler",
+			"all_tokens",
+			"mem",
+			"class",
+			"text2_probs",
+			"text2token_probs",
+			"attitude",
+			"output_file",
+			"filename",
+			"load_file",
+			"total_nbr_words",
+			"text2word_probs",
+			"all_words",
+			"sentiment_files2word_set",
+			"sentimentFiles2WordSet",
+			"Structure",
+			"\\t",
+			"wordCounts",
+			"download",
+			"//",
+			"log out",
+			"admin log",
+			"admin log out",
+			"class",
+			"Q08",
+			"R32"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"RIGHT_KEY",
+			"UP_KEY",
+			"LEFT_KEY",
+			"DOWN_KEY",
+			"issue_id",
+			"camera",
+			"client_addr",
+			"readInputFromFile",
+			"train_x",
+			"data_x",
+			"readInput",
+			"readTrainData",
+			"addImage",
+			"\"",
+			">",
+			"<",
+			":",
+			"}",
+			"{",
+			"list2",
+			"list1",
+			"zombiepic",
+			"\\n",
+			"",
+			"calcSentimentForNewTerms",
+			"calcAllSentiments",
+			"Pictionary",
+			"SET stockQuantity = '10 kg' WHERE name = \\1;",
+			"UPDATE",
+			"\\1,'2013-03-20'\\2",
+			"INSERT INTO Customers values('\\1','\\2');",
+			"ö",
+			"Ingredients values(\\1,'1 kg');",
+			"Ingredients values(\\1,'1 kg');\\n",
+			"INSERT INTO RecipeItems values('\\1','\\2','\\3');\\n",
+			"\\1",
+			"INSERT INTO values(\\1);\\n",
+			"INSERT INTO values(\\1)",
+			"ipAddress",
+			"remove_punctuation_etc",
+			"most_common_feature",
+			"file_handler",
+			"load_all_tokens",
+			"text2probs",
+			"text2_probs",
+			"label",
+			"self.output_file",
+			"output_file",
+			"read_file",
+			"total_nbr_tokens",
+			"text2token_probs",
+			"all_tokens",
+			"all_words",
+			"sentiment_files2word_set",
+			"Structurizer",
+			"    ",
+			"countWords",
+			"elseStmt",
+			"thenStmt",
+			"",
+			"diagUpLeft",
+			"simScore",
+			"simEntry",
+			"R($1+1)",
+			"$1",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								677,
+								677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/game.js",
+					"settings":
+					{
+						"buffer_size": 1343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/entity.js",
+					"settings":
+					{
+						"buffer_size": 3402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/world.js",
+					"settings":
+					{
+						"buffer_size": 3586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1690,
+								1690
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1430.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scripts/player.js",
+					"settings":
+					{
+						"buffer_size": 3388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								860,
+								860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 484.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scripts/globals.js",
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "data/entities00.txt",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "maps/map10.txt",
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "maps/map10col.txt",
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true
+}

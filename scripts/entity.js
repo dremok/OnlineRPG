@@ -12,7 +12,7 @@ var entityHandler = (function() {
 		this.animState = 0;
 		this.animTimer = Date.now();
 		this.state = LEFT_STATE;
-		this.speed = 150;
+		this.speed = 60;
 		this.image = new Image();
 		this.image.src = 'img/' + type + ".png";
 		this.getId = function() {
@@ -43,6 +43,13 @@ var entityHandler = (function() {
 			}
 			for (var i = 0; i < entities.length; i++) {
 				if (entities[i].id != this.id) {
+					if (this.id == 0) {
+						console.log(collisionRect.x + " =?= " + entities[i].getRectangle().x);
+						console.log(collisionRect.y + " =?= " + entities[i].getRectangle().y);
+						console.log(collisionRect.width + " =?= " + entities[i].getRectangle().width);
+						console.log(collisionRect.height + " =?= " + entities[i].getRectangle().height);
+						console.log(rectanglesOverlapping({x:574, y:299, width:56, height:64}, {x:576, y:300, width:56, height:64}));
+					}
 					if (rectanglesOverlapping(collisionRect, entities[i].getRectangle())) {
 						return false;
 					}
@@ -61,12 +68,13 @@ var entityHandler = (function() {
 				this.animTimer = Date.now();
 			}
 			// Move entity
-			var rand = Math.random();
-			if (rand >= 0.98) {
-				this.state = Math.floor((Math.random() * 4));
-			}
+			// var rand = Math.random();
+			// if (rand >= 0.98) {
+			// 	this.state = Math.floor((Math.random() * 4));
+			// }
 			var collisionMap = world.getCollisionMap();
 			var entities = world.getCurrentEntities();
+			// if (this.id == 0) console.log(this.canWalk(collisionMap, entities, this.speed * mod));
 			if (this.canWalk(collisionMap, entities, this.speed * mod)) {
 				if (this.state == DOWN_STATE) {
 					this.y += this.speed * mod;

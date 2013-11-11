@@ -12,7 +12,7 @@ var RIGHT_STATE = 3;
 // Global functions
 function rectanglesOverlapping(rectA, rectB) {
 	function valueInRange(value, min, max) {
-		return (value < max) && (value > min);
+		return (value <= max) && (value >= min);
 	}
 	var xOverlap = valueInRange(rectA.x, rectB.x, rectB.x + rectB.width) ||
 					valueInRange(rectB.x, rectA.x, rectA.x + rectA.width);
